@@ -3,7 +3,7 @@
 
 ##### Profesores: Jonatan Blank y Benito Franco
 
-El repositorio cuenta con la carpeta "scripts" donde se encuentran los archivos .py de las clases y la carpeta "notebooks" donde se encuentran los archivos .ipynb de las clases.
+El repositorio cuenta con la carpeta "scripts" donde se encuentran los archivos .py de las clases y los archivos .ipynb de las clases.
 
 De igual manera, los links de las sesiones se encuentran en el archivo "links.txt".
 

@@ -1,0 +1,5 @@
+Introducción a Git & Github: https://youtu.be/SaKUkgM-cEw
+
+Variables, Condicionales y Ciclos: https://youtu.be/TaPxexqz5v4
+
+Probabilidad y Estadística con Python (Introducción) : https://youtu.be/qFcZag45-D4
